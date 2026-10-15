@@ -1,19 +1,23 @@
-# Hi, I'm Fatima 👋
+# 👋 Hi, I'm Fatima!
 
-🎓 Computer Science Student from Tunisia
+🎓 Computer Science Student | 🇹🇳 Tunisia
 
 💻 Aspiring Software Developer
 
-## Skills
-- Python
-- Java
-- C++
-- HTML & CSS
+## 🚀 About Me
+- 🌱 Currently learning programming and web development
+- 💡 Interested in software development and problem-solving
+- 🎯 Working on personal and academic projects
 
-## About Me
-I'm learning programming and building projects to improve my development skills.
+## 🛠️ Technologies & Tools
+- **Languages:** Python, Java, C++
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, VS Code
 
-## Goals
+## 📌 Goals
 - Build useful projects
 - Improve my coding skills
-- Learn Git and GitHub
+- Learn new technologies
+- Grow as a software developer
+
+✨ Thanks for visiting my profile!
